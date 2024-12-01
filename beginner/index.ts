@@ -14,7 +14,3 @@ console.log(typeof firstName);
 // let unknownType: unknown = "22";
 // unknownType = "Unknown";
 // // console.log(unknownType);
-let nullType: null = null;
-let undefinedType: undefined = undefined;
-console.log(nullType);
-console.log(undefinedType);
