@@ -5,3 +5,8 @@ var employee = {
     employeeJob: "Developer",
 };
 console.log(employee);
+var powerValue = {
+    a: 11,
+    b: 22,
+};
+console.log(powerValue);
