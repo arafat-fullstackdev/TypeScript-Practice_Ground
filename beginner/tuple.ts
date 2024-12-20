@@ -29,3 +29,13 @@ let employee: Person = {
 };
 
 console.log(employee);
+type point = {
+  readonly a: number;
+  readonly b: number;
+};
+
+let powerValue: point = {
+  a: 11,
+  b: 22,
+};
+console.log(powerValue);
