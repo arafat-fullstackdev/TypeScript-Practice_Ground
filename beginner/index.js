@@ -1,5 +1,6 @@
-var firstName = "Dimitri";
-var lastName = "Farabi";
+"use strict";
+let firstName = "Dimitri";
+let lastName = "Farabi";
 console.log(typeof firstName);
 // console.log(typeof lastName);
 //TS run
@@ -12,7 +13,3 @@ console.log(typeof firstName);
 // let unknownType: unknown = "22";
 // unknownType = "Unknown";
 // // console.log(unknownType);
-var nullType = null;
-var undefinedType = undefined;
-console.log(nullType);
-console.log(undefinedType);

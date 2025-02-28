@@ -1,3 +1,4 @@
+"use strict";
 //* direction //
 // enum Direction {
 //     Up,
@@ -26,7 +27,7 @@ var LogLevel;
     LogLevel["debug"] = "DEBUG";
     LogLevel["info"] = "INFO";
 })(LogLevel || (LogLevel = {}));
-var myStatus = Status.Active;
-var myLog = LogLevel.info;
+let myStatus = Status.Active;
+let myLog = LogLevel.info;
 console.log(myStatus);
 console.log(myLog);

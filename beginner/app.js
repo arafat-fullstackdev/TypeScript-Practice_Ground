@@ -1,4 +1,5 @@
-var employeeId = "Eh346";
-var employeeName = "Dimitro Bustakvice";
+"use strict";
+let employeeId = "Eh346";
+let employeeName = "Dimitro Bustakvice";
 console.log(employeeId);
 console.log(employeeName);
