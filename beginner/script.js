@@ -1,3 +1,4 @@
+"use strict";
 function add(a, b) {
     return a + b;
 }
@@ -8,7 +9,7 @@ function multiply(c, d) {
 }
 console.log("Multiplication of Parameter", multiply(44, 66));
 //* push()
-var fruits = ['Apple', 'Banana', 'Orange', 'Grape'];
+let fruits = ['Apple', 'Banana', 'Orange', 'Grape'];
 console.log(fruits);
 fruits.push('Mango');
 console.log(fruits);

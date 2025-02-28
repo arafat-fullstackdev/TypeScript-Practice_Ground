@@ -1,11 +1,12 @@
+"use strict";
 //* Tuple */
-var myTuple = ["11", 33, "Hello", true];
-var employee = {
+let myTuple = ["11", 33, "Hello", true];
+let employee = {
     employeeName: "Dimitri Farabi",
     employeeJob: "Developer",
 };
 console.log(employee);
-var powerValue = {
+let powerValue = {
     a: 11,
     b: 22,
 };
