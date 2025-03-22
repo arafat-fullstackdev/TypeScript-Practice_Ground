@@ -1,5 +1,9 @@
-"use strict";
-let result;
+// <<<<<<< Union
+// "use strict";
+// let result;
+// =======
+// var result;
+// >>>>>>> main
 result = 22;
 result = 'Hello, TypeScript!';
 console.log(result);
